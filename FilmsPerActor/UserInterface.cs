@@ -14,7 +14,7 @@ namespace FilmsPerActor
         {
             while (true)
             {
-                Console.WriteLine("Ange skådespelarens namn för att hitta alla filmer skädespelaren deltagit i. (t.ex Penelope Guiness)");
+                Console.WriteLine("Ange skådespelarens namn för att hitta alla filmer skådespelaren deltagit i. (t.ex Penelope Guiness)");
 
                 Console.Write("Ange förnamn: ");
                 string firstName = Console.ReadLine();
